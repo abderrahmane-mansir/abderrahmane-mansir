@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=css&logoColor=white" />
 <!-- Add more icons as needed -->
 </p>
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Flottie.host%2Fbc241134-3150-4093-bb37-3dbbafed0502%2FuxkfrWP0dK.json)
+![Static Badge]([https://img.shields.io/badge/https%3A%2F%2Flottie.host%2Fbc241134-3150-4093-bb37-3dbbafed0502%2FuxkfrWP0dK.json](https://lottie.host/embed/bc241134-3150-4093-bb37-3dbbafed0502/uxkfrWP0dK.json))
 
 
 
