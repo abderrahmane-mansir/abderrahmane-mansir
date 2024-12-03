@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Your Email](mailto:mansir.0.abderrahmane@gmail.com).
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-in-white?style=social&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 
 
