@@ -16,10 +16,9 @@
 
 ### Languages and Tools:
 <p align="left">
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=html&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=css&logoColor=white" />
+
 <!-- Add more icons as needed -->
 </p>
 
