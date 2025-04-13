@@ -3,9 +3,9 @@
 🚀 Building digital experiences with code & creativity  
 
 ### 🔥 Quick Facts  
-- 🔭 Currently working on **[Self Driving Car](https://github.com/yourusername/project)** (brief description).  
+- 🔭 Currently working on **[Self Driving Car](https://github.com/yourusername/project)** (Deep Learning Project).  
 - 🌱 Learning more about **React, Deep Learning, and Motion Graphic**.  
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://yourportfolio.link)** (or GitHub pinned repos).  
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://yourportfolio.link)**.  
 - 💬 Ask me about **JavaScript, Python, or Graphic Design**.  
 - 📫 Reach me: **mansir.0.abderrahmane@gmail.com**  
 
