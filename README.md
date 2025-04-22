@@ -12,7 +12,14 @@
 ---
 
 ### 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,scikit-learn,tensorflow&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,sql,java&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,git,vscode&perline=8)](https://skillicons.dev)
+
+### Graphic Design Software
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma&perline=4)](https://skillicons.dev)
 
 ---
 
