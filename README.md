@@ -33,7 +33,10 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)  
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)  
 
