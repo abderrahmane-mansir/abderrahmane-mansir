@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Languages  
+## ↗️ Languages  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3)](https://skillicons.dev)<br/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
@@ -24,12 +24,12 @@
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
 
 
-## Graphic Design Software
+## 🎨 Graphic Design Software
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,ai)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=blender,figma)](https://skillicons.dev)
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/>
 
-## Tools
+## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
 ---
 ## 🚀 Featured Projects  
