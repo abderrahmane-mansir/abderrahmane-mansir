@@ -13,7 +13,7 @@
 
 ---
 
-## ↗️ Languages  
+## 🌟 Languages  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3)](https://skillicons.dev)<br/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
