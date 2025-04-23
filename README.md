@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abderrahmane MANSIR  
-**Web Developer & Graphic Designer**  
+**Computer Science Student | Web Developer | Graphic Designer | Future Data Analyst & AI Specialist**  
 🚀 Building digital experiences with code & creativity  
 
 ## 🔥 Quick Facts  
