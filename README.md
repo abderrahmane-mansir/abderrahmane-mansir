@@ -31,7 +31,10 @@
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
-
+---
+## 🚀 Featured Projects  
+- 🔧 [Self Driving Car](https://github.com/abderrahmane-mansir/) – Using CNNs and Reinforcement Learning to train autonomous vehicles.  
+- 🎨 [Design Gallery](https://behance.net/abderramansir) – Creative UI/UX & motion graphic projects.  
 ---
 ## 📊 GitHub Stats
 
