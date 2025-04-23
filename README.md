@@ -12,14 +12,16 @@
 ---
 
 ## 🛠️ Languages  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php&perline=3)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=python,scikit-learn,tensorflow&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,sql,java&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3)]<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch)]<br/>
+[![My Skills](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png)]
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=c,sql,java)](https://skillicons.dev)
 
 
 ## Graphic Design Software
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma)](https://skillicons.dev)
 
 ## Tools
 
@@ -34,11 +36,12 @@
 ---
 
 ## 🌐 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,gmail)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)  
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/MANSIR_is_me)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mansir.0.abderrahmane@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=github,gmail)](https://github.com/MANSIR-Abderrahmane)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)
 
 
 
