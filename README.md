@@ -13,10 +13,10 @@
 
 ## 🛠️ Languages  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch)](https://skillicons.dev)<br/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/><br>
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
@@ -47,7 +47,7 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/MANSIR_is_me)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mansir.0.abderrahmane@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)<br/>
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)
 
