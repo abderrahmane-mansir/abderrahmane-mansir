@@ -14,16 +14,17 @@
 ## 🛠️ Languages  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch)](https://skillicons.dev)<br/>
-<img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-<img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
-<img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/><br>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/><br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
 
 
 ## Graphic Design Software
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=blender,figma)](https://skillicons.dev)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/>
 
 ## Tools
 
