@@ -1,4 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQE4rGgCMmTc2w/profile-displaybackgroundimage-shrink_350_1400/B4EZYs7JS4GgAY-/0/1744510426479?e=1750896000&v=beta&t=7A5tHkD4LGf9HOygM8lF3o0i0jI6ZpIx6_q3ebrf-ew"/>
+<br/>
 # Hi 👋, I'm Abderrahmane MANSIR  
 **Computer Science Student | Web Developer | Graphic Designer | Future Data Analyst & AI Specialist**  
 🚀 Building digital experiences with code & creativity  
