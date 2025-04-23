@@ -14,10 +14,8 @@
 ## 🛠️ Languages  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch)](https://skillicons.dev)<br/>
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-</div>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=c,sql,java)](https://skillicons.dev)
 
