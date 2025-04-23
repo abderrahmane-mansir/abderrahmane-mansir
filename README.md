@@ -23,7 +23,7 @@
 
 
 ## Graphic Design Software
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,ai)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=pr,ps,ai)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=blender,figma)](https://skillicons.dev)
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/>
 
