@@ -40,10 +40,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/MANSIR_is_me)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mansir.0.abderrahmane@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)<br/>
+[![My Skills](https://skillicons.dev/icons?i=twitter,gmail,github,linkedin)](https://x.com/MANSIR_is_me)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)<br/>
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)
 
