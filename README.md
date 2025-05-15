@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 Languages, Libraries and FrameWorks
+## 🌟 My Skills
 
 <table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
