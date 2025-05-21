@@ -33,7 +33,7 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ai,ps,pr"><br/>
       <img src="https://skillicons.dev/icons?i=blender,figma">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva" />
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
     <td>Text H</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"></td>
     <td>
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
