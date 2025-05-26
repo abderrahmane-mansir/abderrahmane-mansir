@@ -15,41 +15,51 @@
 
 ## 🌟 My Skills
 
+
 <table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td align="center">🌐 Web Development</td>
+    <td align="center">🌐 Front-End Development</td>
     <td align="center">📊 Data Analysis</td>
-    <td align="center">🤖 Artificial intelligence</td>
+    <td align="center">🤖 Artificial Intelligence</td>
     <td align="center">🎨 Graphic Design</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,php,threejs&perline=3" align="center"></td>
     <td align="center">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+      <img  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,threejs,ts&perline=3">
     </td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"></td>
-    <td align="center">
+    <td>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python"/>
+      &nbsp;
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" title="NumPy"/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" title="Pandas"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch">
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=ai,ps,pr"><br/>
       <img src="https://skillicons.dev/icons?i=blender,figma">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva" />
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" title="Canva" />
     </td>
   </tr>
   <tr>
-    <td>DataBases</td>
-    <td>Other Programming Languages</td>
-    <td>🛠️ Tools</td>
-    <td>Text H</td>
+    <td align="center">🌐 Back-End Development</td>
+    <td align="center">🗄️ Databases</td>
+    <td align="center">🧑‍💻 Other Languages</td>
+    <td align="center">🛠️ Tools</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"></td>
-    <td>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,php,django,flask&perline=3"></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres">
     </td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,eclipse,git"></td>
-    <td><img src="imageH.png" alt="H" width="100"></td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" title="C"/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" title="Java"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,git">
+    </td>
   </tr>
 </table>
 
@@ -67,10 +77,11 @@
 
 ---
 
-## 💼 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=twitter,gmail,github,linkedin)](https://x.com/MANSIR_is_me)<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)<br/>
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)
+## 💼 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-mansir)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANSIR-Abderrahmane)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansir.0.abderrahmane@gmail.com)
 
 
 
