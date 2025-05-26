@@ -71,9 +71,9 @@
 ---
 ## 🔎 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red\&rank_icon=github\&title_color=2f0000\&text_color=000000\&bg_color=30,202020,313131\&icon_color=2f0000)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&layout=compact&theme=shadow_red)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&layout=compact&theme=shadow_red\&title_color=2f0000\&text_color=000000\&bg_color=30,202020,313131\&icon_color=2f0000)  
 
 ---
 
