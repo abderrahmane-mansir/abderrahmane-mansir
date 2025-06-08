@@ -1,15 +1,18 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQEVsLGLmeoReQ/profile-displaybackgroundimage-shrink_350_1400/B4EZbRDEDxHYAY-/0/1747263986154?e=1752710400&v=beta&t=69zxIfgFdjA0GF1_J7gifbv7No2dY9UA61EklfHaSiU"/>
 
-# Hi 👋, I'm Abderrahmane MANSIR  
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Abderrahmane MANSIR  
 **Computer Science Student | Web Developer | Graphic Designer | Future Data Analyst & AI Specialist**  
-🚀 Building digital experiences with code & creativity  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Building digital experiences with code & creativity  
 
-## 🔥 Quick Facts  
-- 🔭 Currently working on **[Self Driving Car](https://github.com/yourusername/project)** (Deep Learning Project).  
-- 🌱 Learning more about **React, Deep Learning, and Motion Graphic**.  
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://yourportfolio.link)**.  
-- 💬 Ask me about **JavaScript, Python, or Graphic Design**.  
-- 📫 Reach me: **mansir.0.abderrahmane@gmail.com**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Quick Facts 
+
+<img align="right" width="38%" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on **[Self Driving Car](https://github.com/yourusername/project)** (Deep Learning Project).  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about **React, Deep Learning, and Motion Graphic**.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://yourportfolio.link)**.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Ask me about **JavaScript, Python, or Graphic Design**.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /> Reach me: **mansir.0.abderrahmane@gmail.com**  
 
 ---
 
@@ -81,10 +84,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)
-
-
-
-
-
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)<br/>
+[![X](https://img.shields.io/twitter/follow/MANSIR_Abde.svg?style=social)](https://x.com/MANSIR_Abde)<br/>
+[![YouTube](https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&logo=youtube)](https://www.youtube.com/@AbderrahmaneMANSIR)
 
