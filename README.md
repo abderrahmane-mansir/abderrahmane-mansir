@@ -7,13 +7,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Quick Facts 
 
 <img align="right" width="38%" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on **[Self Driving Car](https://github.com/yourusername/project)** (Deep Learning Project).  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about **React, Deep Learning, and Motion Graphic**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://yourportfolio.link)**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Ask me about **JavaScript, Python, or Graphic Design**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /> Reach me: **mansir.0.abderrahmane@gmail.com**  
-
 ---
 
 ## 🌟 My Skills
@@ -74,9 +74,17 @@
 ---
 ## 🔎 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red\&rank_icon=github\&title_color=2f0000\&text_color=000000\&bg_color=30,202020,313131\&icon_color=2f0000)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red&rank_icon=github&title_color=2f0000&text_color=000000&bg_color=262a33&icon_color=2f0000&hide_border=true" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&title_color=2f0000&text_color=000000&icon_color=2f0000&hide_border=true&bg_color=262a33&langs_count=5" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&layout=compact&theme=shadow_red\&title_color=2f0000\&text_color=000000\&bg_color=30,202020,313131\&icon_color=2f0000)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MANSIR-Abderrahmane&theme=shadow_red&hide_border=true&background=262A33&ring=2f0000&fire=2f0000&currStreakNum=000000&sideLabels=2f0000&dates=000000&currStreakLabel=000000&sideNums=000000" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&layout=compact&theme=shadow_red&title_color=2f0000&text_color=000000&bg_color=262a33&icon_color=2f0000&hide_border=true" />
+</p>
 
 ---
 
