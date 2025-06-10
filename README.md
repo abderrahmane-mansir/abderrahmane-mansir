@@ -50,7 +50,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />
       Back-End Development</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> Databases</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> Databases</td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Other Languages</td>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tools</td>
   </tr>
@@ -73,9 +73,9 @@
 ---
 ## 🚀 Featured Projects  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> [Self Driving Car](https://github.com/abderrahmane-mansir/) – Using CNNs and Reinforcement Learning to train autonomous vehicles.  
-- 🖼️ [Design Gallery](https://behance.net/abderramansir) – Creative UI/UX & motion graphic projects.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Design Gallery](https://behance.net/abderramansir) – Creative UI/UX & motion graphic projects.  
 ---
-## 🔎 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red&rank_icon=github&title_color=2f0000&text_color=000000&bg_color=262a33&icon_color=2f0000&hide_border=true" />
@@ -91,7 +91,7 @@
 
 ---
 
-## 💼 Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
