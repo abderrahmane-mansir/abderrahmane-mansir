@@ -6,25 +6,27 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Quick Facts 
 
-<img align="right" width="38%" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on **[Self Driving Car](https://github.com/yourusername/project)** (Deep Learning Project).  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about **React, Deep Learning, and Motion Graphic**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://yourportfolio.link)**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Ask me about **JavaScript, Python, or Graphic Design**.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /> Reach me: **mansir.0.abderrahmane@gmail.com**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Reach me: **mansir.0.abderrahmane@gmail.com**
+
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="250" height="250" />
+
+ 
 ---
 
-## 🌟 My Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> My Skills
 
 
 <table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td align="center">🌐 Front-End Development</td>
-    <td align="center">📊 Data Analysis</td>
-    <td align="center">🤖 Artificial Intelligence</td>
-    <td align="center">🎨 Graphic Design</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />
+      Front-End Development</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Data Analysis</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Artificial Intelligence</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Graphic Design</td>
   </tr>
   <tr>
     <td align="center">
@@ -46,10 +48,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center">🌐 Back-End Development</td>
-    <td align="center">🗄️ Databases</td>
-    <td align="center">🧑‍💻 Other Languages</td>
-    <td align="center">🛠️ Tools</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />
+      Back-End Development</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> Databases</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Other Languages</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tools</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,php,django,flask&perline=3"></td>
@@ -69,7 +72,7 @@
 
 ---
 ## 🚀 Featured Projects  
-- 🔧 [Self Driving Car](https://github.com/abderrahmane-mansir/) – Using CNNs and Reinforcement Learning to train autonomous vehicles.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> [Self Driving Car](https://github.com/abderrahmane-mansir/) – Using CNNs and Reinforcement Learning to train autonomous vehicles.  
 - 🖼️ [Design Gallery](https://behance.net/abderramansir) – Creative UI/UX & motion graphic projects.  
 ---
 ## 🔎 GitHub Stats
