@@ -77,6 +77,8 @@
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> GitHub Stats
 
+<!-- TODO : I need to chose better colors ... Might be the same as my Website -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red&rank_icon=github&title_color=2f0000&text_color=000000&bg_color=262a33&icon_color=2f0000&hide_border=true" />
   &nbsp;&nbsp;
