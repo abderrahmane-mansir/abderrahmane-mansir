@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-
+<!-- This needs some heavy work for suuure-->
 ---
 ## 🚀 Featured Projects  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> [Self Driving Car](https://github.com/abderrahmane-mansir/) – Using CNNs and Reinforcement Learning to train autonomous vehicles.  
