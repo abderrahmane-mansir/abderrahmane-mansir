@@ -3,7 +3,7 @@
 <!-- -->
 
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEVsLGLmeoReQ/profile-displaybackgroundimage-shrink_350_1400/B4EZbRDEDxHYAY-/0/1747263986154?e=1756944000&v=beta&t=FTaUml31oMbCfrWCmGQ-cRC9twcsc0fXra3sYn29rf8"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEVsLGLmeoReQ/profile-displaybackgroundimage-shrink_350_1400/B4EZbRDEDxHYAY-/0/1747263986154?e=1759968000&v=beta&t=fHn6ifDB7vfoApplkKvln5l61Tt_yfe0UpDUqZxU5oU"/>
 
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Abderrahmane MANSIR  
 **Computer Science Student | Web Developer | Graphic Designer | Future Data Analyst & AI Specialist**  
