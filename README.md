@@ -93,7 +93,7 @@
 <!-- This needs some heavy work for suuure-->
 ---
 ## 🚀 Featured Projects  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> [3D Self Driving Car](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.
 
 
