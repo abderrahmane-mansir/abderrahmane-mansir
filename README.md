@@ -93,9 +93,12 @@
 <!-- This needs some heavy work for suuure-->
 ---
 ## 🚀 Featured Projects  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.<br/>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MANSIR-Abderrahmane&repo=3D_Self_Drive_Car)](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> [3D Self Driving Car](https://github.com/MANSIR-Abderrahmane/3D_Titanic_Classification) – 3D Titanic Scene with AI Prediction of Survival.
+- 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> [3D Titanic Classification](https://github.com/MANSIR-Abderrahmane/3D_Titanic_Classification) – 3D Titanic Scene with AI Prediction of Survival. <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MANSIR-Abderrahmane&repo=3D_Titanic_Classification)](https://github.com/MANSIR-Abderrahmane/3D_Titanic_Classification)
 
 
 
@@ -105,15 +108,15 @@
 <!-- TODO : I need to chose better colors ... Might be the same as my Website -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&theme=shadow_red&rank_icon=github&title_color=2f0000&text_color=000000&bg_color=262a33&icon_color=2f0000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&title_color=2f0000&text_color=000000&icon_color=2f0000&hide_border=true&bg_color=262a33&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MANSIR-Abderrahmane&theme=shadow_red&hide_border=true&background=262A33&ring=2f0000&fire=2f0000&currStreakNum=000000&sideLabels=2f0000&dates=000000&currStreakLabel=000000&sideNums=000000" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&layout=compact&theme=shadow_red&title_color=2f0000&text_color=000000&bg_color=262a33&icon_color=2f0000&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&hide_border=true" />
+ &nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&hide_border=true&layout=compact" />
 </p>
 
 ---
@@ -122,7 +125,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/abderramansir)<br/>
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abderrahmane-mansir)<br/>
 [![X](https://img.shields.io/twitter/follow/MANSIR_Abde.svg?style=social)](https://x.com/MANSIR_Abde)<br/>
 [![YouTube](https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&logo=youtube)](https://www.youtube.com/@AbderrahmaneMANSIR)
 
