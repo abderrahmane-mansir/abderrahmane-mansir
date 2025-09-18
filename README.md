@@ -96,7 +96,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.<br/>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MANSIR-Abderrahmane&repo=3D_Self_Drive_Car)](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.
-- 
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> [3D Titanic Classification](https://github.com/MANSIR-Abderrahmane/3D_Titanic_Classification) – 3D Titanic Scene with AI Prediction of Survival. <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MANSIR-Abderrahmane&repo=3D_Titanic_Classification)](https://github.com/MANSIR-Abderrahmane/3D_Titanic_Classification)
 
@@ -121,7 +121,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
