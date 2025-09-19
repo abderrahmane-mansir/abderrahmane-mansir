@@ -108,15 +108,15 @@
 <!-- TODO : I need to chose better colors ... Might be the same as my Website -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-mansir&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=MANSIR-Abderrahmane&show_icons=true&hide_border=true" />
+ <img src="https://streak-stats.demolab.com/?user=abderrahmane-mansir&theme=github-dark-dimmed" />
  &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSIR-Abderrahmane&hide_border=true&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&langs_count=8&layout=compact" />
 </p>
 
 ---
