@@ -123,7 +123,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MANSIR-Abderrahmane)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/abderrahmane-mansir)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abderrahmane-mansir)<br/>
 [![X](https://img.shields.io/twitter/follow/MANSIR_Abde.svg?style=social)](https://x.com/MANSIR_Abde)<br/>
