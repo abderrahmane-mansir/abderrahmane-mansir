@@ -3,7 +3,11 @@
 <!-- -->
 
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEVsLGLmeoReQ/profile-displaybackgroundimage-shrink_350_1400/B4EZbRDEDxHYAY-/0/1747263986154?e=1759968000&v=beta&t=fHn6ifDB7vfoApplkKvln5l61Tt_yfe0UpDUqZxU5oU"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Untitled-2.jpg" width="300" height="300"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Untitled-11.jpg" height="300"/>
+</p>
 
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Abderrahmane MANSIR  
 **Computer Science Student | Web Developer | Graphic Designer | Future Data Analyst & AI Specialist**  
@@ -95,8 +99,8 @@
 ## 🚀 Featured Projects  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/abderrahmane-mansir/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.<br/>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Self_Drive_Car&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5)](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.
-
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.<br/>
+<img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Behance_Show.png" width="250"/> <br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> [3D Titanic Classification](https://github.com/abderrahmane-mansir/3D_Titanic_Classification) – 3D Titanic Scene with AI Prediction of Survival. <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Titanic_Classification&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5)](https://github.com/abderrahmane-mansir/3D_Titanic_Classification)
 
