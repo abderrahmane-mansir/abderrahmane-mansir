@@ -2,12 +2,7 @@
 <!-- Farming Github  -->
 <!-- -->
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Untitled-11.jpg" height="300"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Untitled-2.jpg" width="300" height="300"/>
-</p>
+  <img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Untitled-11.jpg"/>
 
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Abderrahmane MANSIR  
 **Computer Science Student | Web Developer | Graphic Designer | Future Data Analyst & AI Specialist**  
