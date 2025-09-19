@@ -94,11 +94,11 @@
 ---
 ## 🚀 Featured Projects  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/abderrahmane-mansir/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.<br/>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Self_Drive_Car&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7)](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Self_Drive_Car&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5)](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> [3D Titanic Classification](https://github.com/abderrahmane-mansir/3D_Titanic_Classification) – 3D Titanic Scene with AI Prediction of Survival. <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Titanic_Classification&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7)](https://github.com/abderrahmane-mansir/3D_Titanic_Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Titanic_Classification&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5)](https://github.com/abderrahmane-mansir/3D_Titanic_Classification)
 
 
 
@@ -108,7 +108,7 @@
 <!-- TODO : I need to chose better colors ... Might be the same as my Website -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-mansir&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-mansir&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&hide_border=true&langs_count=6" />
 </p>
