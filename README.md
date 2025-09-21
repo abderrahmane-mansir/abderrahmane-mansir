@@ -95,7 +95,12 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Vertical%20Traffic%20Light.png" alt="Vertical Traffic Light" width="25" height="25" /> [3D Self Driving Car](https://github.com/abderrahmane-mansir/3D_Self_Drive_Car) – 3D Project of a Self Drive vehicle.<br/>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Self_Drive_Car&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5)](https://github.com/MANSIR-Abderrahmane/3D_Self_Drive_Car)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> [Elite Anime Edge](https://www.behance.net/gallery/234531495/Elite-Anime-Edge) – ƎAE Brand Identity Project, Creative Designs & Branding.<br/>
-<img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Behance_Show.png" width="250"/> <br/>
+<p>
+  <img alt="Behance Project: Elite Anime Edge" src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Behance_Show.png" width="250"/>
+  &nbsp;&nbsp;
+  <img alt="Behance Project: Elite Anime Edge T-shirt Collection" src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Behance_Show2.png" width="250"/>
+</p>
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> [3D Titanic Classification](https://github.com/abderrahmane-mansir/3D_Titanic_Classification) – 3D Titanic Scene with AI Prediction of Survival. <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrahmane-mansir&repo=3D_Titanic_Classification&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5)](https://github.com/abderrahmane-mansir/3D_Titanic_Classification)
 
