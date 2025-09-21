@@ -130,6 +130,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/abderrahmane-mansir)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abderrahmane-mansir)<br/>
-[![X](https://img.shields.io/twitter/follow/MANSIR_Abde.svg?style=social)](https://x.com/MANSIR_Abde)<br/>
-[![YouTube](https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&logo=youtube)](https://www.youtube.com/@AbderrahmaneMANSIR)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbderrahmaneMANSIR)<br/>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MANSIR_Abde)
+
 
