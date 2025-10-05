@@ -1,6 +1,4 @@
 <!-- TODO: Try Making it more like the Portfolio Website -->
-<!-- -->
-<!-- -->
 
   <img src="https://raw.githubusercontent.com/abderrahmane-mansir/abderrahmane-mansir/refs/heads/main/Github/Untitled-11.jpg"/>
 
