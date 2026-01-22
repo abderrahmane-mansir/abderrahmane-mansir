@@ -15,6 +15,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Quick Facts 
 <!-- TODO : Make the image side ways with the Text to backup the Empty Space -->
 <!-- TODO : Rewrite these to be more suetable for your Portfolio and current work -->
+<!-- TODO : Rewrite these to be more suetable for your Portfolio and current work -->
 
 <table align="center" style="border: none">
 <tr>
