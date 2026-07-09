@@ -110,7 +110,7 @@
 
 
 ---
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> Stats
 
 <!-- TODO : I need to chose better colors ... Might be the same as my Website -->
 
@@ -124,6 +124,9 @@
  <img src="https://streak-stats.demolab.com/?user=abderrahmane-mansir&theme=github-dark-dimmed" />
  &nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&langs_count=8&layout=compact&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mansir_abderrahmane?theme=dark&font=Harmattan&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
