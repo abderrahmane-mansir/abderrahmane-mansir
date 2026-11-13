@@ -125,7 +125,7 @@
 </p>
 <p align="center">
   <!-- <img src="https://leetcard.jacoblin.cool/mansir_abderrahmane?theme=dark&font=Harmattan&ext=heatmap" alt="LeetCode Stats" /> -->
-  <img src="https://leetcard.jacoblin.cool/Ezzkaneki?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mansir_abderrahmane?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
