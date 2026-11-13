@@ -124,7 +124,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&langs_count=8&layout=compact&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7" />
 </p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mansir_abderrahmane?theme=dark&font=Harmattan&ext=heatmap" alt="LeetCode Stats" />
+  <!-- <img src="https://leetcard.jacoblin.cool/mansir_abderrahmane?theme=dark&font=Harmattan&ext=heatmap" alt="LeetCode Stats" /> -->
+  <img src="https://leetcard.jacoblin.cool/Ezzkaneki?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
